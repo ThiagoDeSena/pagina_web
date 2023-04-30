@@ -1,0 +1,12 @@
+footer{
+    background-color: gray;
+    text-align: center;
+}
+
+img{
+    display: inline-flex;
+}
+
+.imagem{
+    width: 15px;
+}
